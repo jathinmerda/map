@@ -55,7 +55,7 @@
     {
       "name": "São Francisco River",
       "coordinates": {"latitude": -17.5, "longitude": -43.5}
-    }
+    },
     {
       "name": "Mackenzie River",
       "coordinates": {"latitude": 61.525, "longitude": -124.081944}
@@ -75,7 +75,7 @@
     {
       "name": "Rio Grande",
       "coordinates": {"latitude": 25.974722, "longitude": -97.442222}
-    }
+    },
     {
       "name": "Orinoco River",
       "coordinates": {"latitude": 7.483333, "longitude": -67.583333}

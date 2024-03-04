@@ -1,0 +1,272 @@
+{
+  "rivers": [
+    {
+      "name": "Amazon River",
+      "coordinates": {"latitude": -10.283333, "longitude": -71.966667}
+    },
+    {
+      "name": "Nile River",
+      "coordinates": {"latitude": 1.522222, "longitude": 32.427778}
+    },
+    {
+      "name": "Yangtze River",
+      "coordinates": {"latitude": 33.333333, "longitude": 94.583333}
+    },
+    {
+      "name": "Mississippi River",
+      "coordinates": {"latitude": 47.25, "longitude": -95.2}
+    },
+    {
+      "name": "Danube River",
+      "coordinates": {"latitude": 48.083333, "longitude": 16.666667}
+    },
+    {
+      "name": "Ganges River",
+      "coordinates": {"latitude": 25.35, "longitude": 89.55}
+    },
+    {
+      "name": "Indus River",
+      "coordinates": {"latitude": 35.15, "longitude": 77.3}
+    },
+    {
+      "name": "Rhine River",
+      "coordinates": {"latitude": 47.466667, "longitude": 9.566667}
+    },
+    {
+      "name": "Zambezi River",
+      "coordinates": {"latitude": -13.6, "longitude": 25.8}
+    },
+    {
+      "name": "Elbe River",
+      "coordinates": {"latitude": 51.066667, "longitude": 10.5}
+    },
+    {
+      "name": "Rhône River",
+      "coordinates": {"latitude": 46.5, "longitude": 6.5}
+    },
+    {
+      "name": "Marañón River",
+      "coordinates": {"latitude": -5, "longitude": -78}
+    },
+    {
+      "name": "Huallaga River",
+      "coordinates": {"latitude": -8.5, "longitude": -75.5}
+    },
+    {
+      "name": "São Francisco River",
+      "coordinates": {"latitude": -17.5, "longitude": -43.5}
+    }
+    {
+      "name": "Mackenzie River",
+      "coordinates": {"latitude": 61.525, "longitude": -124.081944}
+    },
+    {
+      "name": "Volga River",
+      "coordinates": {"latitude": 57.466667, "longitude": 46.016667}
+    },
+    {
+      "name": "Columbia River",
+      "coordinates": {"latitude": 46.2, "longitude": -124}
+    },
+    {
+      "name": "Yukon River",
+      "coordinates": {"latitude": 60.299167, "longitude": -140.266944}
+    },
+    {
+      "name": "Rio Grande",
+      "coordinates": {"latitude": 25.974722, "longitude": -97.442222}
+    }
+    {
+      "name": "Orinoco River",
+      "coordinates": {"latitude": 7.483333, "longitude": -67.583333}
+    },
+    {
+      "name": "Magdalena River",
+      "coordinates": {"latitude": 10.75, "longitude": -74.916667}
+    },
+    {
+      "name": "Darro River",
+      "coordinates": {"latitude": 37.177222, "longitude": -3.595}
+    },
+    {
+      "name": "Klamath River",
+      "coordinates": {"latitude": 42.012222, "longitude": -121.762222}
+    },
+    {
+      "name": "Guadalquivir River",
+      "coordinates": {"latitude": 36.1875, "longitude": -6.166667}
+    },
+    {
+      "name": "Fraser River",
+      "coordinates": {"latitude": 49.216667, "longitude": -121.55}
+    },
+    {
+      "name": "Rhone River",
+      "coordinates": {"latitude": 45.413611, "longitude": 5.735278}
+    },
+    {
+      "name": "Limpopo River",
+      "coordinates": {"latitude": -25.25, "longitude": 32.5}
+    },
+    {
+      "name": "Orange River",
+      "coordinates": {"latitude": -28.849167, "longitude": 17.288333}
+    },
+    {
+      "name": "Tana River",
+      "coordinates": {"latitude": -0.9, "longitude": 39.756389}
+    },
+    {
+      "name": "Pechora River",
+      "coordinates": {"latitude": 65.521389, "longitude": 51.297778}
+    },
+    {
+      "name": "Oka River",
+      "coordinates": {"latitude": 55.8925, "longitude": 40.191389}
+    },
+    {
+      "name": "Vyatka River",
+      "coordinates": {"latitude": 58.596389, "longitude": 51.658611}
+    },
+    {
+      "name": "Donets River",
+      "coordinates": {"latitude": 49.230833, "longitude": 40.178889}
+    },
+    {
+      "name": "Northern Dvina River",
+      "coordinates": {"latitude": 62.516667, "longitude": 40.633333}
+    },
+    {
+      "name": "Vistula River",
+      "coordinates": {"latitude": 54.814444, "longitude": 18.656667}
+    },
+    {
+      "name": "Tagus River",
+      "coordinates": {"latitude": 39.656667, "longitude": -8.724444}
+    },
+    {
+      "name": "Dniester River",
+      "coordinates": {"latitude": 48.510833, "longitude": 27.438333}
+    },
+    {
+      "name": "Po River",
+      "coordinates": {"latitude": 45.042222, "longitude": 8.789444}
+    },
+    {
+      "name": "Ticino River",
+      "coordinates": {"latitude": 45.189444, "longitude": 9.021944}
+    },
+    {
+      "name": "Adda River",
+      "coordinates": {"latitude": 45.835, "longitude": 9.328611}
+    },
+    {
+      "name": "Mincio River",
+      "coordinates": {"latitude": 45.171667, "longitude": 10.598333}
+    },
+    {
+      "name": "Oglio River",
+      "coordinates": {"latitude": 45.279167, "longitude": 10.0575}
+    },
+    {
+      "name": "Arno River",
+      "coordinates": {"latitude": 43.773611, "longitude": 11.254167}
+    },
+    {
+      "name": "Tiber River",
+      "coordinates": {"latitude": 41.9925, "longitude": 12.513611}
+    },
+    {
+      "name": "Garigliano River",
+      "coordinates": {"latitude": 41.383333, "longitude": 13.966667}
+    },
+    {
+      "name": "Volturno River",
+      "coordinates": {"latitude": 41.053056, "longitude": 14.274444}
+    },
+    {
+      "name": "Sele River",
+      "coordinates": {"latitude": 40.663889, "longitude": 15.345556}
+    },
+    {
+      "name": "Sangro River",
+      "coordinates": {"latitude": 42.271389, "longitude": 14.418056}
+    },
+    {
+      "name": "Tronto River",
+      "coordinates": {"latitude": 42.870833, "longitude": 13.7325}
+    },
+    {
+      "name": "Pescara River",
+      "coordinates": {"latitude": 42.374722, "longitude": 14.191667}
+    },
+    {
+      "name": "Trigno River",
+      "coordinates": {"latitude": 41.9725, "longitude": 14.765833}
+    },
+    {
+      "name": "Biferno River",
+      "coordinates": {"latitude": 41.775833, "longitude": 15.441111}
+    },
+    {
+      "name": "Fortore River",
+      "coordinates": {"latitude": 41.437222, "longitude": 15.6}
+    },
+    {
+      "name": "Ofanto River",
+      "coordinates": {"latitude": 41.197222, "longitude": 15.6675}
+    },
+    {
+      "name": "Cervaro River",
+      "coordinates": {"latitude": 41.039444, "longitude": 15.907778}
+    },
+    {
+      "name": "Basento River",
+      "coordinates": {"latitude": 40.472222, "longitude": 15.852222}
+    },
+    {
+      "name": "Agri River",
+      "coordinates": {"latitude": 40.042222, "longitude": 15.911111}
+    },
+    {
+      "name": "Sinni River",
+      "coordinates": {"latitude": 40.059722, "longitude": 16.145833}
+    },
+    {
+      "name": "Bradano River",
+      "coordinates": {"latitude": 40.4025, "longitude": 16.545556}
+    },
+    {
+      "name": "Vilnia River",
+      "coordinates": {"latitude": 54.685, "longitude": 25.308333}
+    },
+    {
+      "name": "Daugava River",
+      "coordinates": {"latitude": 56.961111, "longitude": 24.126944}
+    },
+    {
+      "name": "Syr Darya",
+      "coordinates": {"latitude": 43.912222, "longitude": 67.328889}
+    },
+    {
+      "name": "Terek River",
+      "coordinates": {"latitude": 43.303333, "longitude": 44.116667}
+    },
+    {
+      "name": "Kura River",
+      "coordinates": {"latitude": 40.133333, "longitude": 49.366667}
+    },
+    {
+      "name": "Belaya River",
+      "coordinates": {"latitude": 53.529167, "longitude": 55.158333}
+    },
+    {
+      "name": "Kama River",
+      "coordinates": {"latitude": 57.566667, "longitude": 52.766667}
+    },
+    {
+      "name": "Tunguska River",
+      "coordinates": {"latitude": 59.333333, "longitude": 88.833333}
+    }
+  ]
+}

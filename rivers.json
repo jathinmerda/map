@@ -267,6 +267,98 @@
     {
       "name": "Tunguska River",
       "coordinates": {"latitude": 59.333333, "longitude": 88.833333}
-    }
+    },
+    {
+  "name": "Thames River",
+  "coordinates": {"latitude": 51.4995, "longitude": -0.1248}
+    },
+    {
+  "name": "Yamuna River",
+  "coordinates": {"latitude": 28.6204, "longitude": 77.2198}
+    },
+    {
+  "name": "Severn River",
+  "coordinates": {"latitude": 51.8663, "longitude": -2.2382}
+},
+{
+  "name": "Brahmaputra River",
+  "coordinates": {"latitude": 26.7091, "longitude": 89.0679}
+},
+{
+  "name": "Teesta River",
+  "coordinates": {"latitude": 26.7397, "longitude": 88.2455}
+},
+{
+  "name": "Godavari River",
+  "coordinates": {"latitude": 17.0963, "longitude": 81.4981}
+},
+{
+  "name": "Krishna River",
+  "coordinates": {"latitude": 15.8276, "longitude": 80.7911}
+},
+{
+  "name": "Narmada River",
+  "coordinates": {"latitude": 21.9747, "longitude": 73.6077}
+},
+{
+  "name": "Kaveri River",
+  "coordinates": {"latitude": 11.6031, "longitude": 77.6666}
+},
+{
+  "name": "Tungabhadra River",
+  "coordinates": {"latitude": 15.1341, "longitude": 76.5681}
+},
+{
+  "name": "Tapti River",
+  "coordinates": {"latitude": 21.1342, "longitude": 73.8006}
+},
+{
+  "name": "Sabarmati River",
+  "coordinates": {"latitude": 23.0196, "longitude": 72.5692}
+},
+{
+  "name": "Ghaghara River",
+  "coordinates": {"latitude": 27.2483, "longitude": 84.6477}
+},
+{
+  "name": "Betwa River",
+  "coordinates": {"latitude": 24.2092, "longitude": 78.8227}
+},
+{
+  "name": "Chambal River",
+  "coordinates": {"latitude": 26.0344, "longitude": 78.3603}
+},
+{
+  "name": "Beas River",
+  "coordinates": {"latitude": 31.3925, "longitude": 76.8534}
+},
+{
+  "name": "Jhelum River",
+  "coordinates": {"latitude": 33.3455, "longitude": 73.8654}
+},
+{
+  "name": "Ravi River",
+  "coordinates": {"latitude": 32.5738, "longitude": 74.9060}
+},
+{
+  "name": "Soan River",
+  "coordinates": {"latitude": 33.7901, "longitude": 73.6661}
+},
+{
+  "name": "Wear River",
+  "coordinates": {"latitude": 54.9308, "longitude": -1.4405}
+},
+{
+  "name": "Tyne River",
+  "coordinates": {"latitude": 54.9614, "longitude": -1.6174}
+},
+{
+  "name": "Clyde River",
+  "coordinates": {"latitude": 55.8629, "longitude": -4.2530}
+},
+{
+  "name": "Mersey River",
+  "coordinates": {"latitude": 53.3976, "longitude": -2.9915}
+}
   ]
 }

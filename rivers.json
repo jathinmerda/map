@@ -499,6 +499,31 @@
       "name": "Clarence River",
       "continent": "Australia",
       "coordinates": {"latitude": -29.8141, "longitude": 153.2636}
+    },
+    {
+      "name": "Biobío River",
+      "continent": "South America",
+      "coordinates": {"latitude": -37.4, "longitude": -72.683333}
+    },
+    {
+      "name": "Maipo River",
+      "continent": "South America",
+      "coordinates": {"latitude": -33.733333, "longitude": -70.616667}
+    },
+    {
+      "name": "Limay River",
+      "continent": "South America",
+      "coordinates": {"latitude": -39.5, "longitude": -70.883333}
+    },
+    {
+      "name": "Colorado River",
+      "continent": "South America",
+      "coordinates": {"latitude": -38.933333, "longitude": -67.983333}
+    },
+    {
+      "name": "Salado River (Buenos Aires)",
+      "continent": "South America",
+      "coordinates": {"latitude": -35.466667, "longitude": -58.216667}
     }
   ]
 }

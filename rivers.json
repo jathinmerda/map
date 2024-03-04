@@ -2,363 +2,503 @@
   "rivers": [
     {
       "name": "Amazon River",
+      "continent": "South America",
       "coordinates": {"latitude": -10.283333, "longitude": -71.966667}
     },
     {
       "name": "Nile River",
+      "continent": "Africa",
       "coordinates": {"latitude": 1.522222, "longitude": 32.427778}
     },
     {
       "name": "Yangtze River",
+      "continent": "Asia",
       "coordinates": {"latitude": 33.333333, "longitude": 94.583333}
     },
     {
       "name": "Mississippi River",
+      "continent": "North America",
       "coordinates": {"latitude": 47.25, "longitude": -95.2}
     },
     {
       "name": "Danube River",
+      "continent": "Europe",
       "coordinates": {"latitude": 48.083333, "longitude": 16.666667}
     },
     {
       "name": "Ganges River",
+      "continent": "Asia",
       "coordinates": {"latitude": 25.35, "longitude": 89.55}
     },
     {
       "name": "Indus River",
+      "continent": "Asia",
       "coordinates": {"latitude": 35.15, "longitude": 77.3}
     },
     {
       "name": "Rhine River",
+      "continent": "Europe",
       "coordinates": {"latitude": 47.466667, "longitude": 9.566667}
     },
     {
       "name": "Zambezi River",
+      "continent": "Africa",
       "coordinates": {"latitude": -13.6, "longitude": 25.8}
     },
     {
       "name": "Elbe River",
+      "continent": "Europe",
       "coordinates": {"latitude": 51.066667, "longitude": 10.5}
     },
     {
       "name": "Rhône River",
+      "continent": "Europe",
       "coordinates": {"latitude": 46.5, "longitude": 6.5}
     },
     {
       "name": "Marañón River",
+      "continent": "South America",
       "coordinates": {"latitude": -5, "longitude": -78}
     },
     {
       "name": "Huallaga River",
+      "continent": "South America",
       "coordinates": {"latitude": -8.5, "longitude": -75.5}
     },
     {
       "name": "São Francisco River",
+      "continent": "South America",
       "coordinates": {"latitude": -17.5, "longitude": -43.5}
     },
     {
       "name": "Mackenzie River",
+      "continent": "North America",
       "coordinates": {"latitude": 61.525, "longitude": -124.081944}
     },
     {
       "name": "Volga River",
+      "continent": "Europe",
       "coordinates": {"latitude": 57.466667, "longitude": 46.016667}
     },
     {
       "name": "Columbia River",
+      "continent": "North America",
       "coordinates": {"latitude": 46.2, "longitude": -124}
     },
     {
       "name": "Yukon River",
+      "continent": "North America",
       "coordinates": {"latitude": 60.299167, "longitude": -140.266944}
     },
     {
       "name": "Rio Grande",
+      "continent": "North America",
       "coordinates": {"latitude": 25.974722, "longitude": -97.442222}
     },
     {
       "name": "Orinoco River",
+      "continent": "South America",
       "coordinates": {"latitude": 7.483333, "longitude": -67.583333}
     },
     {
       "name": "Magdalena River",
+      "continent": "South America",
       "coordinates": {"latitude": 10.75, "longitude": -74.916667}
     },
     {
       "name": "Darro River",
+      "continent": "Europe",
       "coordinates": {"latitude": 37.177222, "longitude": -3.595}
     },
     {
       "name": "Klamath River",
+      "continent": "North America",
       "coordinates": {"latitude": 42.012222, "longitude": -121.762222}
     },
     {
       "name": "Guadalquivir River",
+      "continent": "Europe",
       "coordinates": {"latitude": 36.1875, "longitude": -6.166667}
     },
     {
       "name": "Fraser River",
+      "continent": "North America",
       "coordinates": {"latitude": 49.216667, "longitude": -121.55}
     },
     {
       "name": "Rhone River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.413611, "longitude": 5.735278}
     },
     {
       "name": "Limpopo River",
+      "continent": "Africa",
       "coordinates": {"latitude": -25.25, "longitude": 32.5}
     },
     {
       "name": "Orange River",
+      "continent": "Africa",
       "coordinates": {"latitude": -28.849167, "longitude": 17.288333}
     },
     {
       "name": "Tana River",
+      "continent": "Africa",
       "coordinates": {"latitude": -0.9, "longitude": 39.756389}
     },
     {
       "name": "Pechora River",
+      "continent": "Europe",
       "coordinates": {"latitude": 65.521389, "longitude": 51.297778}
     },
     {
       "name": "Oka River",
+      "continent": "Europe",
       "coordinates": {"latitude": 55.8925, "longitude": 40.191389}
     },
     {
       "name": "Vyatka River",
+      "continent": "Europe",
       "coordinates": {"latitude": 58.596389, "longitude": 51.658611}
     },
     {
       "name": "Donets River",
+      "continent": "Europe",
       "coordinates": {"latitude": 49.230833, "longitude": 40.178889}
     },
     {
       "name": "Northern Dvina River",
+      "continent": "Europe",
       "coordinates": {"latitude": 62.516667, "longitude": 40.633333}
     },
     {
       "name": "Vistula River",
+      "continent": "Europe",
       "coordinates": {"latitude": 54.814444, "longitude": 18.656667}
     },
     {
       "name": "Tagus River",
+      "continent": "Europe",
       "coordinates": {"latitude": 39.656667, "longitude": -8.724444}
     },
     {
       "name": "Dniester River",
+      "continent": "Europe",
       "coordinates": {"latitude": 48.510833, "longitude": 27.438333}
     },
     {
       "name": "Po River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.042222, "longitude": 8.789444}
     },
     {
       "name": "Ticino River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.189444, "longitude": 9.021944}
     },
     {
       "name": "Adda River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.835, "longitude": 9.328611}
     },
     {
       "name": "Mincio River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.171667, "longitude": 10.598333}
     },
     {
       "name": "Oglio River",
+      "continent": "Europe",
       "coordinates": {"latitude": 45.279167, "longitude": 10.0575}
     },
     {
       "name": "Arno River",
+      "continent": "Europe",
       "coordinates": {"latitude": 43.773611, "longitude": 11.254167}
     },
     {
       "name": "Tiber River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.9925, "longitude": 12.513611}
     },
     {
       "name": "Garigliano River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.383333, "longitude": 13.966667}
     },
     {
       "name": "Volturno River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.053056, "longitude": 14.274444}
     },
     {
       "name": "Sele River",
+      "continent": "Europe",
       "coordinates": {"latitude": 40.663889, "longitude": 15.345556}
     },
     {
       "name": "Sangro River",
+      "continent": "Europe",
       "coordinates": {"latitude": 42.271389, "longitude": 14.418056}
     },
     {
       "name": "Tronto River",
+      "continent": "Europe",
       "coordinates": {"latitude": 42.870833, "longitude": 13.7325}
     },
     {
       "name": "Pescara River",
+      "continent": "Europe",
       "coordinates": {"latitude": 42.374722, "longitude": 14.191667}
     },
     {
       "name": "Trigno River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.9725, "longitude": 14.765833}
     },
     {
       "name": "Biferno River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.775833, "longitude": 15.441111}
     },
     {
       "name": "Fortore River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.437222, "longitude": 15.6}
     },
     {
       "name": "Ofanto River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.197222, "longitude": 15.6675}
     },
     {
       "name": "Cervaro River",
+      "continent": "Europe",
       "coordinates": {"latitude": 41.039444, "longitude": 15.907778}
     },
     {
       "name": "Basento River",
+      "continent": "Europe",
       "coordinates": {"latitude": 40.472222, "longitude": 15.852222}
     },
     {
       "name": "Agri River",
+      "continent": "Europe",
       "coordinates": {"latitude": 40.042222, "longitude": 15.911111}
     },
     {
       "name": "Sinni River",
+      "continent": "Europe",
       "coordinates": {"latitude": 40.059722, "longitude": 16.145833}
     },
     {
       "name": "Bradano River",
+      "continent": "Europe",
       "coordinates": {"latitude": 40.4025, "longitude": 16.545556}
     },
     {
       "name": "Vilnia River",
+      "continent": "Europe",
       "coordinates": {"latitude": 54.685, "longitude": 25.308333}
     },
     {
       "name": "Daugava River",
+      "continent": "Europe",
       "coordinates": {"latitude": 56.961111, "longitude": 24.126944}
     },
     {
       "name": "Syr Darya",
+      "continent": "Asia",
       "coordinates": {"latitude": 43.912222, "longitude": 67.328889}
     },
     {
       "name": "Terek River",
+      "continent": "Europe",
       "coordinates": {"latitude": 43.303333, "longitude": 44.116667}
     },
     {
       "name": "Kura River",
+      "continent": "Asia",
       "coordinates": {"latitude": 40.133333, "longitude": 49.366667}
     },
     {
       "name": "Belaya River",
+      "continent": "Europe",
       "coordinates": {"latitude": 53.529167, "longitude": 55.158333}
     },
     {
       "name": "Kama River",
+      "continent": "Europe",
       "coordinates": {"latitude": 57.566667, "longitude": 52.766667}
     },
     {
       "name": "Tunguska River",
+      "continent": "Asia",
       "coordinates": {"latitude": 59.333333, "longitude": 88.833333}
     },
     {
-  "name": "Thames River",
-  "coordinates": {"latitude": 51.4995, "longitude": -0.1248}
+      "name": "Thames River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 51.4995, "longitude": -0.1248}
     },
     {
-  "name": "Yamuna River",
-  "coordinates": {"latitude": 28.6204, "longitude": 77.2198}
+      "name": "Yamuna River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 28.6204, "longitude": 77.2198}
     },
     {
-  "name": "Severn River",
-  "coordinates": {"latitude": 51.8663, "longitude": -2.2382}
-},
-{
-  "name": "Brahmaputra River",
-  "coordinates": {"latitude": 26.7091, "longitude": 89.0679}
-},
-{
-  "name": "Teesta River",
-  "coordinates": {"latitude": 26.7397, "longitude": 88.2455}
-},
-{
-  "name": "Godavari River",
-  "coordinates": {"latitude": 17.0963, "longitude": 81.4981}
-},
-{
-  "name": "Krishna River",
-  "coordinates": {"latitude": 15.8276, "longitude": 80.7911}
-},
-{
-  "name": "Narmada River",
-  "coordinates": {"latitude": 21.9747, "longitude": 73.6077}
-},
-{
-  "name": "Kaveri River",
-  "coordinates": {"latitude": 11.6031, "longitude": 77.6666}
-},
-{
-  "name": "Tungabhadra River",
-  "coordinates": {"latitude": 15.1341, "longitude": 76.5681}
-},
-{
-  "name": "Tapti River",
-  "coordinates": {"latitude": 21.1342, "longitude": 73.8006}
-},
-{
-  "name": "Sabarmati River",
-  "coordinates": {"latitude": 23.0196, "longitude": 72.5692}
-},
-{
-  "name": "Ghaghara River",
-  "coordinates": {"latitude": 27.2483, "longitude": 84.6477}
-},
-{
-  "name": "Betwa River",
-  "coordinates": {"latitude": 24.2092, "longitude": 78.8227}
-},
-{
-  "name": "Chambal River",
-  "coordinates": {"latitude": 26.0344, "longitude": 78.3603}
-},
-{
-  "name": "Beas River",
-  "coordinates": {"latitude": 31.3925, "longitude": 76.8534}
-},
-{
-  "name": "Jhelum River",
-  "coordinates": {"latitude": 33.3455, "longitude": 73.8654}
-},
-{
-  "name": "Ravi River",
-  "coordinates": {"latitude": 32.5738, "longitude": 74.9060}
-},
-{
-  "name": "Soan River",
-  "coordinates": {"latitude": 33.7901, "longitude": 73.6661}
-},
-{
-  "name": "Wear River",
-  "coordinates": {"latitude": 54.9308, "longitude": -1.4405}
-},
-{
-  "name": "Tyne River",
-  "coordinates": {"latitude": 54.9614, "longitude": -1.6174}
-},
-{
-  "name": "Clyde River",
-  "coordinates": {"latitude": 55.8629, "longitude": -4.2530}
-},
-{
-  "name": "Mersey River",
-  "coordinates": {"latitude": 53.3976, "longitude": -2.9915}
-}
+      "name": "Severn River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 51.8663, "longitude": -2.2382}
+    },
+    {
+      "name": "Brahmaputra River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 26.7091, "longitude": 89.0679}
+    },
+    {
+      "name": "Teesta River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 26.7397, "longitude": 88.2455}
+    },
+    {
+      "name": "Godavari River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 17.0963, "longitude": 81.4981}
+    },
+    {
+      "name": "Krishna River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 15.8276, "longitude": 80.7911}
+    },
+    {
+      "name": "Narmada River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 21.9747, "longitude": 73.6077}
+    },
+    {
+      "name": "Kaveri River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 11.6031, "longitude": 77.6666}
+    },
+    {
+      "name": "Tungabhadra River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 15.1341, "longitude": 76.5681}
+    },
+    {
+      "name": "Tapti River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 21.1342, "longitude": 73.8006}
+    },
+    {
+      "name": "Sabarmati River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 23.0196, "longitude": 72.5692}
+    },
+    {
+      "name": "Ghaghara River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 27.2483, "longitude": 84.6477}
+    },
+    {
+      "name": "Betwa River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 24.2092, "longitude": 78.8227}
+    },
+    {
+      "name": "Chambal River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 26.0344, "longitude": 78.3603}
+    },
+    {
+      "name": "Beas River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 31.3925, "longitude": 76.8534}
+    },
+    {
+      "name": "Jhelum River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 33.3455, "longitude": 73.8654}
+    },
+    {
+      "name": "Ravi River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 32.5738, "longitude": 74.9060}
+    },
+    {
+      "name": "Soan River",
+      "continent": "Asia",
+      "coordinates": {"latitude": 33.7901, "longitude": 73.6661}
+    },
+    {
+      "name": "Wear River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 54.9308, "longitude": -1.4405}
+    },
+    {
+      "name": "Tyne River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 54.9614, "longitude": -1.6174}
+    },
+    {
+      "name": "Clyde River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 55.8629, "longitude": -4.2530}
+    },
+    {
+      "name": "Mersey River",
+      "continent": "Europe",
+      "coordinates": {"latitude": 53.3976, "longitude": -2.9915}
+    },
+    {
+      "name": "Murray River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -35.5017, "longitude": 143.903}
+    },
+    {
+      "name": "Darling River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -31.6845, "longitude": 143.5267}
+    },
+    {
+      "name": "Murrumbidgee River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -35.135, "longitude": 149.145}
+    },
+    {
+      "name": "Lachlan River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -33.8303, "longitude": 146.1853}
+    },
+    {
+      "name": "Macquarie River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -32.6367, "longitude": 148.8688}
+    },
+    {
+      "name": "Fitzroy River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -22.9432, "longitude": 117.8945}
+    },
+    {
+      "name": "Swan River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -31.9535, "longitude": 115.857}
+    },
+    {
+      "name": "Hawkesbury River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -33.5454, "longitude": 151.1886}
+    },
+    {
+      "name": "Snowy River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -37.0415, "longitude": 148.747}
+    },
+    {
+      "name": "Clarence River",
+      "continent": "Australia",
+      "coordinates": {"latitude": -29.8141, "longitude": 153.2636}
+    }
   ]
 }

@@ -524,6 +524,101 @@
       "name": "Salado River (Buenos Aires)",
       "continent": "South America",
       "coordinates": {"latitude": -35.466667, "longitude": -58.216667}
+    },
+    {
+        "name": "Volga River",
+        "continent": "Europe",
+        "coordinates": {"latitude": 48.7128, "longitude": 44.5366}
+    },
+    {
+        "name": "Amur River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 53.7248, "longitude": 127.569}
+    },
+    {
+        "name": "Yangtze River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 30.0167, "longitude": 122.0981}
+    },
+    {
+        "name": "Yellow River (Huang He)",
+        "continent": "Asia",
+        "coordinates": {"latitude": 35.3089, "longitude": 113.4583}
+    },
+    {
+        "name": "Lena River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 62.9000, "longitude": 127.5000}
+    },
+    {
+        "name": "Yenisei River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 66.5000, "longitude": 86.6000}
+    },
+    {
+        "name": "Ob River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 61.0000, "longitude": 68.0000}
+    },
+    {
+        "name": "Tigris River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 35.7279, "longitude": 44.3291}
+    },
+    {
+        "name": "Euphrates River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 35.1175, "longitude": 38.4679}
+    },
+    {
+        "name": "Indus River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 31.3650, "longitude": 73.0311}
+    },
+    {
+        "name": "Mekong River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 13.6829, "longitude": 104.9470}
+    },
+    {
+        "name": "Shinano River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 37.6481, "longitude": 138.6259}
+    },
+    {
+        "name": "Han River",
+        "continent": "Asia",
+        "coordinates": {"latitude": 37.5302, "longitude": 127.1232}
+    },
+    {
+        "name": "Citarum River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -6.9713, "longitude": 107.3907}
+    },
+    {
+        "name": "Brantas River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -7.8229, "longitude": 112.5476}
+    },
+    {
+        "name": "Musirawas River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -3.1643, "longitude": 103.0777}
+    },
+    {
+        "name": "Sungai Kampar River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -1.6309, "longitude": 101.3361}
+    },
+    {
+        "name": "Kapuas River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -0.2015, "longitude": 111.0624}
+    },
+    {
+        "name": "Barito River",
+        "continent": "Asia",
+        "coordinates": {"latitude": -2.2245, "longitude": 114.1159}
     }
   ]
 }
